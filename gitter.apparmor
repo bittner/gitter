@@ -6,8 +6,7 @@
         "content_exchange",
         "video",
         "webview",
-        "accounts",
-        "push-notification-client"
+        "accounts"
     ],
     "policy_version": 1.3
 }
