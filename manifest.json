@@ -1,0 +1,15 @@
+{
+    "name": "gitter.peter-bittner",
+    "description": "Gitter instant messenger. Home of developer communities",
+    "architecture": "all",
+    "title": "Gitter (Unofficial)",
+    "hooks": {
+        "gitter": {
+            "apparmor": "gitter.apparmor",
+            "desktop": "gitter.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Peter Bittner <django@bittner.it>",
+    "framework": "ubuntu-sdk-15.04"
+}

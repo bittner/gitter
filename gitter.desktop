@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Gitter (Unofficial)
+Comment=Gitter instant messenger. Home of developer communities. Web app for Ubuntu Touch devices.
+Type=Application
+Icon=gitter.png
+Exec=webapp-container --store-session-cookies --webappUrlPatterns=https://gitter.im/* https://gitter.im/home
+Terminal=false
+X-Ubuntu-Touch=true
